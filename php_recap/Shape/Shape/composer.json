@@ -1,0 +1,16 @@
+{
+    "name": "rivan/shape",
+    "description": "Tugas minggu_8",
+    "authors": [
+        {
+            "name": "zainuddin25",
+            "email": "zanukjepara@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "gabung\\": "src"
+        }
+    }
+}
